@@ -10,10 +10,8 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "nuxt": "0.10.7",
-    "vue-server-renderer": "latest",
-    "vue": "=2.2.6",
-    "vuetify": "^0.13.1"
+    "nuxt": "latest",
+    "vuetify": "^0.15.7"
   },
   "devDependencies": {
     "stylus": "^0.54.5",
